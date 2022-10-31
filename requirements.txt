@@ -2,6 +2,5 @@ numpy
 pandas
 matplotlib 
 tabulate
-scikit
 bokeh
 scikit-learn
