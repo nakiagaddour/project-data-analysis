@@ -1,6 +1,4 @@
 numpy 
 pandas
-matplotlib 
-tabulate
 bokeh
 scikit-learn
