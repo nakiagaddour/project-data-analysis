@@ -22,6 +22,8 @@ On a utilisé les bibliothèques :
  -  *Scikit-learn*  :Il comporte divers algorithmes de classification , de régression et de clustering , notamment des machines à vecteurs de support , des forêts aléatoires , l'amplification de gradient , k -means et DBSCAN , et est conçu pour interagir avec les bibliothèques numériques et scientifiques Python NumPy et Scipy .
       <img src="./src/Scikit_learn.png" alt="" width="200" height="100">  
 
+------------------
+
 __TSNE__ : 
 
 * L'intégration de voisins stochastiques à distribution T (t-SNE) est une technique de réduction de dimensionnalité non linéaire qui convient bien à l'intégration de données de grande dimension pour la visualisation dans un espace de faible dimension à deux ou trois dimensions.
