@@ -27,7 +27,7 @@ On a utilisé les bibliothèques :
 __TSNE__ : 
 
 * L'intégration de voisins stochastiques à distribution T (t-SNE) est une technique de réduction de dimensionnalité non linéaire qui convient bien à l'intégration de données de grande dimension pour la visualisation dans un espace de faible dimension à deux ou trois dimensions.
-<img src="">
+<img src="./src/bokeh_plot.png" alt="" width="200" height="100">
 
 
 
