@@ -36,6 +36,10 @@ __TSNE__ :
 
 ---------------------------------------------------------
 
+* Conclusion : 
+  On distingue  si la distance entre les deux éléments sont proches alors  leurs compositions sont similaires , sinon leurs compositions sont différents.  
+  Par conséquent, cela nous permet de comparer les éléments sans avoir de connaissances en chimie.
+
 
 
 
