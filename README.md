@@ -37,9 +37,8 @@ __TSNE__ :
 
 ---------------------------------------------------------
 
-- Resultat d'une comparaison entre deux produit 
-
-print(cosmetic_1.Ingredients.values.tomardown)
+- 
+Print(df.head().tomarkdown)
 
 
 
