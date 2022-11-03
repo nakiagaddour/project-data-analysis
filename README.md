@@ -15,11 +15,11 @@ On a utilisé les bibliothèques :
  - *Numpy* : fournit une interface efficace pour stocker et exploiter des tampons de données denses.
         <img src="./src/numpy.png" alt="" width="250" height="100">
 
- - *Bokeh* : permet de créer des visualisations interactives pour les navigateurs Web modernes. Il vous aide à créer de superbes graphiques, allant de simples tracés à des tableaux de bord complexes avec des ensembles de données en continu .
-     <img src="./src/bokeh-logo.png" alt="" width="200" height="100">  
+ - *Bokeh* : permet de créer des visualisations interactives pour les navigateurs Web modernes. Il vous aide à créer de superbes graphiques, allant de simples tracés à des tableaux de bord complexes avec des ensembles de données en continu.  
+       <img src="./src/bokeh-logo.png" alt="" width="150" height="100">  
 
  -  *Scikit-learn*  :Il comporte divers algorithmes de classification , de régression et de clustering , notamment des machines à vecteurs de support , des forêts aléatoires , l'amplification de gradient , k -means et DBSCAN , et est conçu pour interagir avec les bibliothèques numériques et scientifiques Python NumPy et Scipy .
-    <img src="./src/Scikit_learn.png" alt="" width="200" height="100">  
+      <img src="./src/Scikit_learn.png" alt="" width="200" height="100">  
 
 __TSNE__ : 
 
