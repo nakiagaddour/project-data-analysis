@@ -1,10 +1,10 @@
 # project-data-analysis
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nakiagaddour/project-data-analysis/main?filepath=notebook.ipynb)
 
-# Présentation `#FF0000`
+# Présentation
 <p>Ceci est un prototype en analyse de donnée sur les listes d'ingrédient de 1472 cosmétiques sur Sephora .  
 Il existe six catégories de produits dans nos données ( hydratants, nettoyants, masques pour le visage, crèmes pour les yeux et protection solaire ) et il existe cinq types de peau différents ( mixtes, sèches, normales, grasses et sensibles ).</p>  
-<img align="left" src="./src/cosm.webp" alt="" width="300" height="200"><img align="right" src="./src/ingredient.jpg" alt="" width="300" height="200" >
+<img  src="./src/cosm.webp" alt="" width="400" height="200"><img align="right" src="./src/ingredient.jpg" alt="" width="400" height="200" >
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
