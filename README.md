@@ -28,7 +28,19 @@ __TSNE__ :
 
 * L'intégration de voisins stochastiques à distribution T (t-SNE) est une technique de réduction de dimensionnalité non linéaire qui convient bien à l'intégration de données de grande dimension pour la visualisation dans un espace de faible dimension à deux ou trois dimensions.
 
-<img src="./src/bokeh_plot.png" alt="" width="250" height="200"> 
+<img src="./src/bokeh_plot.png" alt="" width="250" height="200" align="center"> 
+                  ** Exemple
+---------------------------------------------------------
+
+  
+
+	Label	Brand	Name	Price	Rank	Ingredients	Combination	Dry	Normal	Oily	Sensitive
+537	Cleanser	ERBORIAN	Double Mousse Gentle Cleansing Foam	28	4.5	Water, Glycerin, Disodium Cocoamphodiacetate, ...	0	0	0	0	0
+566	Cleanser	REN CLEAN SKINCARE	Rosa Centifolia™ No.1 Purity Cleansing Balm	32	4.2	Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ce...	1	1	1	1	1
+919	Face Mask	SEPHORA COLLECTION	Face Mask - Coconut - Nourishing	6	3.5	Water, Butylene Glycol, Glycerin, Betaine, Man...	1	1	1	1	1
+732	Treatment	PERRICONE MD	PRE:EMPT SERIES™ Skin Perfecting Serum	90	4.3	Water, Hexylene Glycol, Glycerin, Isohexadecan...	1	1	1	1	1
+247	Moisturizer	GLAMGLOW	VOLCASMIC™ Matte Glow Moisturizer	49	4.1	Water, Cyclopentasiloxane, Ceresin, Glycerin, ...	1	0	1	1	0
+
 
 
 
