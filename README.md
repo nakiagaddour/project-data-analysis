@@ -11,10 +11,10 @@ Il existe six catégories de produits dans nos données ( hydratants, nettoyants
 ## Bibliothéque : 
 On a utilisé les bibliothèques : 
  - *Pandas* :  est un outil d'analyse et de manipulation de données open source rapide, puissant, flexible et facile à utiliser.
-   <a href="https://miro.medium.com/max/481/1*n_ms1q5YoHAQXXUIfeADKQ.png"> 
+
 
  - *Numpy* : fournit une interface efficace pour stocker et exploiter des tampons de données denses.
-    <img src="./../src/numpy.jpeg">  
+    <img src="./src/numpy.jpeg">  
 
  - *Bokeh* : permet de créer des visualisations interactives pour les navigateurs Web modernes. Il vous aide à créer de superbes graphiques, allant de simples tracés à des tableaux de bord complexes avec des ensembles de données en continu .
     <img src="./../src/bokeh.jpeg">  
